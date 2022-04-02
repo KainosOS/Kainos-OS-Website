@@ -1,6 +1,6 @@
 ## Kainos OS
 
-You can use the [editor on GitHub](https://github.com/KainosOS/Kainos-OS-Website/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+A Linux distribution geared for educational tasks and matters. It is a free and open-source operating system developed by a grade 12 GAS student. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
